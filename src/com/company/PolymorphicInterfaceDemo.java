@@ -5,6 +5,7 @@ package com.company;
  * be used to create a polymorphic reference.
  * Starting Out with Java by Gaddis
  * Modified by Laura K. Gross, laura.gross@bridgew.edu, November, 2018
+ * Additional comments provided in 2020.
  */
 public class PolymorphicInterfaceDemo {
     public static void main(String[] args) {
